@@ -1,0 +1,16 @@
+[package]
+name = "rl_first_principles"
+version = "0.1.0"
+authors = ["Paresh Saxena"]
+edition = "2021"
+license = "MIT"
+readme = "README.md"
+description = """
+Reinforcement Learning from first principles with applications in Finance
+"""
+keywords = ["reinforcemnt learning", "finance", "mdp"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
